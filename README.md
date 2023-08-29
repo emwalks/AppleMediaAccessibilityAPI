@@ -1,2 +1,2 @@
 # AppleMediaAccessibilityAPI
-Collenting resources around Apples Media Accessibility Framework
+Collecting resources around Apples Media Accessibility Framework
