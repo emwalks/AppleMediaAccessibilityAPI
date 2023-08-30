@@ -25,7 +25,7 @@ FCC requirements for captions
   - Window (box encompassing Text) color: 8
     https://developer.apple.com/documentation/mediaaccessibility/1464842-macaptionappearancecopywindowcol
   - Window opacity: 0 to 100% 
-    
+    https://developer.apple.com/documentation/mediaaccessibility/1464844-macaptionappearancegetwindowopac
   - Language: according to tracks present
     https://developer.apple.com/documentation/mediaaccessibility/1464855-macaptionappearancecopyselectedl
   - Character Edge Style: 4 (with mandated subset)
